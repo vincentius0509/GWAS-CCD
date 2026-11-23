@@ -15,7 +15,7 @@ This research is based on publicly available data collected by the Dog Aging Pro
 
 ## Repository contents
 
-`scripts/` holds the 75 R and shell scripts of the analysis. Script numbers follow the order in which the scripts were run (`07-2` runs after `07-1`; R and shell scripts share one sequence). Each script reads the outputs of earlier steps from the results directory and writes its own outputs there with its step number as a prefix (for example, `04-5_gwas/`, `06-5_gsa_all.csv.gz`).
+`01_CodeV2/` holds the 75 R and shell scripts of the analysis. Script numbers follow the order in which the scripts were run (`07-2` runs after `07-1`; R and shell scripts share one sequence). Each script reads the outputs of earlier steps from the results directory and writes its own outputs there with its step number as a prefix (for example, `04-5_gwas/`, `06-5_gsa_all.csv.gz`).
 
 Not included:
 
