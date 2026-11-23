@@ -3,7 +3,7 @@
 Analysis code for: Song Y. and Lee Y. *Calcium-response genes and shared genetic effects underlie cognitive dysfunction scores in 7,115 companion dogs*. Animal Genetics ([year], [volume], [DOI]).
 
 - Data (summary statistics, gene and gene-set results, analysed dog and variant IDs): Zenodo [data DOI]
-- This code, archived: Zenodo [code DOI]
+- This code, archived: Zenodo [10.5281/zenodo.24451655]
 
 ## Data source
 
